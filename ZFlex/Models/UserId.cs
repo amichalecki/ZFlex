@@ -1,0 +1,8 @@
+﻿namespace ZFlex.Models
+{
+    public class UserId
+    {
+        public Guid Id { get; set; }
+        public string Type { get; set; } = "Internal";
+    }
+}

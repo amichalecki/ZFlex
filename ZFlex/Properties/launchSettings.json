@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZFlex": {
+      "commandName": "Project",
+      "commandLineArgs": "-rd 1 -o"
+    }
+  }
+}
